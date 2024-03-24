@@ -1,0 +1,9 @@
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\bin\Debug\data.csv
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Pobrane\ConsoleApp-main\ConsoleApp-main\ConsoleApp\obj\Debug\ConsoleApp.pdb
